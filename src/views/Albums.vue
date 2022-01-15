@@ -35,6 +35,7 @@ export default defineComponent({
   //     console.log("data", this.data);
   //   },
   // },
+  // vue 3 のComposition APIのやり方
   setup() {
     let albums = reactive<{ data: ItunesTypes }>({ data: {} });
     let searchText = ref("");

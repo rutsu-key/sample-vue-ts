@@ -28,30 +28,3 @@ export interface Result {
   releaseDate: string;
   primaryGenreName: string;
 }
-
-// export enum CollectionExplicitness {
-//     Cleaned = "cleaned",
-//     Explicit = "explicit",
-//     NotExplicit = "notExplicit",
-// }
-
-// export enum CollectionType {
-//     Album = "Album",
-// }
-
-// export enum ContentAdvisoryRating {
-//     Clean = "Clean",
-//     Explicit = "Explicit",
-// }
-
-// export enum Country {
-//     Usa = "USA",
-// }
-
-// export enum Currency {
-//     Usd = "USD",
-// }
-
-// export enum WrapperType {
-//     Collection = "collection",
-// }
